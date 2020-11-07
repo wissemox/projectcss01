@@ -1,0 +1,683 @@
+.wissemo{
+    margin-left:100px;
+    margin-right:100px;
+   
+}
+footer{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.menu0{
+    position:sticky;
+    top:0;
+    margin-top: 20px;
+    display: flex; 
+    background-color: white;
+    opacity: 90%;
+    
+    
+   
+    
+} 
+ul{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+ul li {
+    float: left;
+    width: 100px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 20px;
+}
+.menu00{
+    display: flex;
+    margin-left: 600px;
+  
+    
+}
+.lol02{
+    margin-left: 20px;
+}
+ul li ul li:hover {
+    background-color:#D6D8D8 ;
+    padding: 5px;
+    border:solid 1px ;
+}
+.main000{
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    margin-right: 500px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+    
+} 
+ul li{
+    color: #C3C3C3;
+}
+ul li ul li {
+    display: none;
+}
+ul li:hover ul li {
+    display: block;
+}
+ul li ul li{
+    width: 200px;
+}
+li a:hover{
+    color: #2FBAA1;
+}
+
+/*secone phase*/
+.main{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+.print{
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    flex-wrap: wrap;
+    color:  #2FBAA1;
+    
+    
+}
+.print01{
+  display: flex;
+  
+}
+#pri{
+    font-family: Arial, Helvetica, sans-serif;
+   text-align: justify;
+  
+   
+}
+.text02{
+  display: flex;
+  width: 100%;
+   background-color:white;
+}
+.text03{
+    display: flex;
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif; 
+width: 100%;
+  color: #C3C3C3;
+   
+}
+.text04{
+    display: flex;
+    align-items: flex-end;
+    margin-left: 200px;
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+   flex-wrap: wrap;
+   justify-content: flex-start;
+   color: #C3C3C3;
+}
+div p{
+    width: 500px;
+  text-align: justify;
+  text-justify: inter-word;
+  font-size: 20px;
+  
+}
+/*3pashe*/ 
+.flexboxna {
+    display: flex;
+    background-color: red;
+    width: 100%;
+}
+.text005{
+    display: flex;
+}
+.border01{
+    display: flex;
+    
+    margin-top: 60px;
+} 
+.bor{
+    display: flex;
+    border-radius: 15px; 
+    background-color:#00CCB1;
+    width: 600px;
+    height: 500px;
+   
+}
+.bor2{
+    margin-left: 55px;
+    margin-top: 20px;
+}
+.tex p{
+font-size: 16px;
+color: #CED8D6;
+}
+.tex01{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: justify;
+    text-justify: inter-word;
+    
+    font-size: 16px;
+  color: white;
+ flex-direction: row;
+}
+
+.oppati option{
+    flex-direction: column;
+    width: 150px; 
+    
+}
+.opp5{
+    border-radius: 10px; 
+    width: 230px;
+    height: 50px;
+    text-align: center;
+    box-shadow: none;  
+}
+
+.sle img{
+    flex-wrap: wrap;
+    display: flex;
+    width: 310px;
+    margin-left: 235px;
+    margin-right: 350px;
+}
+.omg{
+    display: flex;
+}
+.table001{
+    display: flex;
+     margin-left: 50px;
+    background-color: #3D83DF;
+    width: 600px;
+    height: 500px;
+    border-radius: 15px
+}
+.table002 p{
+    font-size: 16px;
+    display: flex;
+    color: #CED8D6;
+}
+.table003{
+    margin-left: 55px;
+    margin-top: 20px;
+}
+.table004{
+    display: flex;
+}
+.table004 h1{
+    color: white;
+}
+.im img{
+    flex-wrap: wrap;
+    display: flex;
+    width: 310px;
+    margin-left: 235px;
+    margin-right: 350px;
+}
+.im{
+    margin-top: 50px;
+}
+
+.sect {
+    display: flex;
+}
+.sect h1{
+    color:#2FBAA1 ;
+}
+section ul{
+    display: flex;
+    
+}
+section ul li img{
+    width: 30px;
+    height: 30px;
+}
+section ul li {
+    display: flex;
+    float: left;
+    padding-left: 50px;
+    
+}
+section li {
+   list-style: none;
+  
+  
+} 
+
+
+.saz{
+    color:  #C3C3C3; 
+    -webkit-filter: grayscale(1);
+}
+.saz:hover{
+    color:#00CCB1 ; 
+    -webkit-filter: grayscale(0);
+}
+
+.saz01{
+    color:  #C3C3C3; 
+    -webkit-filter: grayscale(1);
+}
+.saz01:hover{
+    color:#00CCB1 ; 
+    -webkit-filter: grayscale(0);
+}
+
+.saz02{
+    color:  #C3C3C3; 
+    -webkit-filter: grayscale(1);
+}
+.saz02:hover{
+    color:#00CCB1 ; 
+    -webkit-filter: grayscale(0);
+}
+
+.saz03{
+    color:  #C3C3C3; 
+    -webkit-filter: grayscale(1);
+}
+.saz03:hover{
+    color:#00CCB1 ; 
+    -webkit-filter: grayscale(0);
+}
+.saz04{
+    color:  #C3C3C3; 
+    -webkit-filter: grayscale(1);
+}
+.saz04:hover{
+    color:#00CCB1 ; 
+    -webkit-filter: grayscale(0);
+}
+.saz05{
+    color:  #C3C3C3; 
+    -webkit-filter: grayscale(1);
+}
+.saz05:hover{
+    color:#00CCB1 ; 
+    -webkit-filter: grayscale(0);
+}
+.lol{
+    display: flex;
+    flex-direction: column;
+}
+
+section ul{
+    margin-left: 150px;
+    margin-top: 20px;
+    width: auto;
+    height: auto;
+    flex-wrap: wrap;
+}
+.sizz h1{
+    font-size: 30px;
+}
+section a{
+    font-size: 25px;
+    
+}
+section ul li{
+    margin-left: 25px;
+
+}
+.saz04{
+    margin-bottom: 50px;
+}
+section{
+
+    margin-top: 60px;
+}
+
+
+.teor02 h3{
+    text-align: center;
+    font-size: 25px;
+    color: #00B39B;
+}
+.teor02 p{
+    text-align: center;
+    color:#A9AAAA;
+} 
+.perio{
+    background-color: #c0f3ea;
+    width: 2000px;
+    height: 450px;
+   
+   
+}
+.perio01{
+    display: flex;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding-top: 50px;
+    
+}
+.perio01 h1{
+    color:#00CCB1 ;
+    font-size: 40px;
+}
+.perio02{
+    color: #98A09F;
+   
+}
+
+.perio03{
+    display: flex;
+}
+.prioe4{
+    border-radius: 5px;
+    background-color: white;
+    width: 270px;
+    height: 300px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.prioe4 h3{
+     color: #00B39B ;
+     text-align: center;
+     font-size: 30px;
+}
+.prioe4 p{
+    font-size: 17px;
+    text-align: center;
+    width: 270px;
+    
+}
+.prioe4 img{
+    margin-left: 100px;
+}
+
+.bario{
+    border-radius: 5px;
+    background-color: white;
+    width: 150px;
+    height: 175px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    margin-left: 30px;
+}
+.bario img{
+    margin-left: 40px;
+}
+.bario h3{
+    font-size: 30px;
+    text-align: center;
+    color: #00B39B;
+    
+}
+
+.bario p {
+    font-size:18px ;
+    text-align: center;
+    width: 170px;
+}
+.prioe4{
+    margin-top: 40px;
+}
+.prr{
+    display: flex;
+}
+.prioe5{
+    display: flex;
+    background-color:#c0f3ea ;
+    width: 2000px;
+    
+   
+}
+.prioe5 img{
+    width: 625px;
+}
+.bordd{
+    font-size: 30px;
+    text-align: center;
+    color: #00B39B;
+} 
+.bordd{
+    border-radius: 5px;
+    background-color: white;
+    width: 310px;
+    height: 175px;
+    margin-left: 26px;
+    margin-top: 40px;
+    
+    height: 300px;
+}
+.bordd img {
+    margin-top: 50px;
+}
+.bordd p {
+    color: #C1C1C1;
+    text-align: center;
+    width: 300px;
+   
+}
+.bordd0{
+    border-radius: 5px;
+    background-color: white;
+    width: 300px;
+    height: 300px;
+    margin-left: 30px;
+    
+}
+.bordd0 img{
+    margin-left: 105px;
+    margin-top: 30px;
+}
+.bordd0 h3{
+ font-size: 35px;
+ text-align: center;
+ color: #00B39B ;
+}
+.bordd0 p{
+    text-align: center;
+    width: 275px;
+    color: #C1C1C1;
+}
+.morgg h1{
+    text-align: center;
+    width: 1500px;
+    color:#00B39B ;
+    font-size: 35px;
+}
+.morgg p{
+    text-align: center;
+    color:#C1C1C1 ;
+    width: 1500px;
+    font-size: 20px;
+}
+.morgg{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.ahmed01{
+    display: flex;
+    margin-right: 150px;
+    margin-left: 150px;
+    
+    
+    width: 1250px;
+    
+    flex-wrap: wrap;
+
+}
+.ahmed02{
+    
+    background-color: white;
+    margin-left: 15px;
+    margin-top: 20px;
+    
+    
+    
+}
+.ahmed02 img{
+  width: 400px;
+  height: 350px;
+  border-radius: 10px;
+  
+  
+}
+.ahmed02:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.ahmed03{
+    display: flex;
+    margin-top: 20px;
+   
+}
+.ahmed03 button{
+  margin-left: 160px;
+  border-radius: 15px;
+  border: none;
+  height: 50px;
+  margin-top: 10px;
+  background-color: #125DAF;
+  color: white;
+  
+}
+.ahmed03 h3{
+    font-size: 25px;
+    padding-left: 10px;
+    color: #3b3b3b;
+}
+.ahmed03 button:hover{
+    background-color: #0e3c6d;
+}
+
+
+@media all and (max-width: 500px) {
+  
+    .menu00{
+      
+       
+    
+       margin-left: 30px;
+       margin-top: 20px;
+      
+        
+    }
+    .text02{
+        display: flex;
+        flex-direction: column;
+    }
+    .text03{
+        display: flex;
+        flex-direction: column;
+    }
+    .text04{
+     display: flex;
+     flex-direction: column;
+     margin-left: 0px;
+    
+    }
+    .print01{
+        margin-left: 0px;
+        display: flex;
+        flex-direction: column;
+        
+    }
+    .print01 h1{
+        font-size: 25px;
+        width: 300px;
+        padding-left: 10px;
+    }
+    .main{
+        margin-left: 0px;
+    }
+   
+    .border01{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+    }
+   
+    .sect{
+        margin-left: 0px;
+    }
+    .ww{
+        margin-left: 50px;
+    }
+    .ahmed01{
+        flex-wrap: wrap;
+        width: 150px;
+    }
+    .table001{
+        margin-left: 0px;
+        margin-top: 30px;
+    }
+    .morgg{
+        width: 250px;
+       
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: 250px;
+    }
+    .perio01{
+       display: flex;
+       flex-direction: column;
+       margin-left: 20px;
+       margin-right: 20px;
+      
+       
+        
+    }
+    .perio{
+        height: 1000px;
+    }
+    .prioe4{
+        margin-left: 0px;
+        margin-right: 50px;
+    }
+    .prioe5 img {
+        display: none;
+    }
+   .prioe5{
+       display: flex;
+       flex-direction: column;
+    
+       
+   }
+   
+   .bordd{
+  margin-left:20px  ;
+   }
+   .bordd0{
+    margin-left:0px ;
+    width: 310px;
+    margin-left:20px  ;
+   }
+   
+   .prioe4{
+    margin-right:250px;
+   }
+   .bario{
+    margin-left:0px;
+   }
+  .perio02{
+    margin-right:300px;
+  }
+  footer{
+      margin: 0px;
+      padding: 0px;
+  }
+  .sect{
+      margin-left: 60px;
+    
+  }
+   .ahmed01{
+       margin-right: 0px;
+       margin-left: 0px;
+   }
+   .morgg {
+       margin-left: 20px;
+   }
+}
